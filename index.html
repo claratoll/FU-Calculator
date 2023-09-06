@@ -7,8 +7,13 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <aside id="result_block">
+      <h2>Result</h2>
+      <ul id="result_list"></ul>
+    </aside>
+
     <section id="calculator">
-      <span id="result">0</span>
+      <span id="result"></span>
       <br />
       <span class="button calc_number">7</span>
       <span class="button calc_number">8</span>
@@ -25,8 +30,12 @@
       <br />
 
       <span class="button calc_sign">+</span>
-      <span class="button calc_sign">-</span>
+      <span class="button calc_sign" id="more_sign">more</span>
       <span class="button calc_sign">=</span>
+      <br />
+      <span class="button hide calc_sign calc_sign_extra">*</span>
+      <span class="button hide calc_sign calc_sign_extra">/</span>
+      <span class="button hide calc_sign calc_sign_extra">-</span>
     </section>
 
     <script src="calculator.js"></script>
