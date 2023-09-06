@@ -1,3 +1,9 @@
+Version 2.0:
+![image](https://github.com/claratoll/FU-Calculator/assets/43537329/ee7d0ee1-e22c-4249-b5a5-297bf857805f)
+When pressed the "more"-button you get more options.
+
+
+Version 1.0:
 ![image](https://github.com/claratoll/FU-Calculator/assets/43537329/af67ac6b-f719-4f5d-8099-49eb9387c834)
 Start
 
